@@ -9,7 +9,7 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: main
+      revision: v0.31
       import: app/west.yml
     - name: prospector-zmk-module
       remote: carrefinho
