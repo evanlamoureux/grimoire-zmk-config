@@ -1,5 +1,5 @@
 include:
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble
     shield: settings_reset
 
   - board: nice_nano
